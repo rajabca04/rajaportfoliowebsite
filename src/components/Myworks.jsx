@@ -6,21 +6,21 @@ function Myworks() {
       <section className="bg-white scroll-smooth antialiased">
         <div className="max-w-screen-xl px-4 py-8 mx-auto lg:px-6 sm:py-16 lg:py-24">
           <div className="max-w-2xl mx-auto text-center">
-            <h2 className="text-3xl font-extrabold leading-tight tracking-tight text-gray-900 sm:text-4xl dark:text-white">
+            <h2 className="text-3xl font-extrabold leading-tight tracking-tight text-gray-900 sm:text-4xl ">
               Our work
             </h2>
-            <p className="mt-4 text-base font-normal text-gray-500 sm:text-xl dark:text-gray-400">
+            <p className="mt-4 text-base font-normal text-gray-500 sm:text-xl ">
               Crafted with skill and care to help our clients grow their
               business!
             </p>
           </div>
 
           <div className="grid grid-cols-1 mt-12 text-center sm:mt-16 gap-x-20 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
-            <div className="space-y-4">
+            <div className="space-y-4 border-gray-500">
               <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
                 Alphabet Inc.
               </span>
-              <h3 className="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
+              <h3 className="text-2xl font-bold leading-tight text-gray-900 ">
                 Official website
               </h3>
               <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
@@ -50,11 +50,11 @@ function Myworks() {
               </a>
             </div>
 
-            <div className="space-y-4">
+            <div className="space-y-4 border-gray-500">
               <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
                 Microsoft Corp.
               </span>
-              <h3 className="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
+              <h3 className="text-2xl font-bold leading-tight text-gray-900 ">
                 Management system
               </h3>
               <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
@@ -84,11 +84,11 @@ function Myworks() {
               </a>
             </div>
 
-            <div className="space-y-4">
+            <div className="space-y-4  border-gray-500">
               <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
                 Adobe Inc.
               </span>
-              <h3 className="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
+              <h3 className="text-2xl font-bold leading-tight text-gray-900 ">
                 Logo design
               </h3>
               <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
